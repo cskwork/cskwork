@@ -21,7 +21,7 @@
 - 외부 데이터 수집 모듈 처리 시간 **2~3h → 1h** (해시맵 재설계)
 - 전자결제 DB 락 야간 불안정 **장기 반복 → 해소**
 - Chrome Web Store 누적 다운로드 **10,000+**
-- 일 방문자 **800~1,000** 규모 서비스 직접 운영
+- 일 방문자 **800~1,000** 블로그
 
 **Backend × AI Stack** — `Java` `Spring` `Spring Batch` `JPA` `MySQL` `Oracle` `MongoDB` `Redis` `Kafka` · `Claude Code` `MCP` `Codex` `Agent SDK` `RAG` `Rasa` `Ollama` `LightRAG`
 
