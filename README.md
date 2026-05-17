@@ -70,22 +70,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [spring-claude-code-mcp-demo](https://github.com/cskwork/spring-claude-code-mcp-demo) | Inflearn course demo — Spring × Claude Code × MCP integration, 60-min hands-on | Java, Spring Boot, MCP |
-| [claude-minimal-plugin](https://github.com/cskwork/claude-minimal-plugin) | Lightweight Claude Code plugin for web development | Shell |
-| [notebook-lm-rag](https://github.com/cskwork/notebook-lm-rag) | NotebookLM RAG research report generator | Python, React |
-| [teaching-assistant](https://github.com/cskwork/teaching-assistant) | Korean education assistant with Excalidraw + Gemini TTS | HTML, JS |
-| [vue-grab](https://github.com/cskwork/vue-grab) | Grab Vue elements and hand them to AI coding tools | TypeScript, Vue |
-| [seomachine-ai-blog](https://github.com/cskwork/seomachine-ai-blog) | AI tech blog with Hugo + PaperMod + SEO pipeline | Python, Hugo |
-| [n8n-maker](https://github.com/cskwork/n8n-maker) | Workflow automation builder | Astro |
-| [image-to-latex-agent](https://github.com/cskwork/image-to-latex-agent) | Image to LaTeX converter for mixed Korean + math content | TypeScript |
-| [vibe-kanban-desktop](https://github.com/cskwork/vibe-kanban-desktop) | Desktop kanban app with auto-updates and health checks | TypeScript, Electron |
-
----
-
 ### Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cskwork&theme=minimal&hide_border=true&area=true" width="100%" />
