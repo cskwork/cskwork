@@ -2,7 +2,7 @@
 
 > Seoul, Korea | Building tools at the intersection of AI and web development
 
-**Currently:** AI 통합 TF Lead — 사내 Claude Code 교육 + MS Teams 에이전트 챗봇 + 엔터프라이즈 LMS 시스템 고도화
+**Currently:** 엔터프라이즈 LMS 시스템 고도화, AI 통합 TF Lead — 사내 Claude Code 교육 + MS Teams, 슬랙 에이전트 챗봇
 
 ---
 
