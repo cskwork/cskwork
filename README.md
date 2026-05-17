@@ -12,7 +12,7 @@
 - LLM · MCP · Claude Code 도입 컨설팅 & 사내 교육
 - Spring 모듈 성능 개선 · DB 락 트러블슈팅
 
-**Contact** — csk@gmail.com
+**Contact** — csk917work@gmail.com
 
 ---
 
