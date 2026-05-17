@@ -2,7 +2,7 @@
 
 > Seoul, Korea | Building tools at the intersection of AI and web development
 
-**Currently:** AX 전환 TF Lead @ 동아출판 — 사내 Claude Code 교육 + MS Teams 에이전트 챗봇 + AIDT LMS 배치 고도화
+**Currently:** AI 통합 TF Lead — 사내 Claude Code 교육 + MS Teams 에이전트 챗봇 + 엔터프라이즈 LMS 배치 고도화
 
 ---
 
