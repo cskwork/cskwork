@@ -56,18 +56,15 @@
 
 ---
 
-### GitHub Stats
+### GitHub
+
+![GitHub followers](https://img.shields.io/github/followers/cskwork?style=flat-square&label=Followers&color=4078c0)
+![GitHub stars](https://img.shields.io/github/stars/cskwork?affiliations=OWNER&style=flat-square&label=Stars&color=4078c0)
+![Profile views](https://komarev.com/ghpvc/?username=cskwork&style=flat-square&label=Profile+views&color=4078c0)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cskwork&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_title=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cskwork&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css,scss" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cskwork&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=cskwork&theme=default&hide_border=true" height="165" />
 
 </div>
 
