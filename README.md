@@ -1,6 +1,29 @@
-# Danny | Full-Stack Developer
+# Danny | Full-Stack Developer × AI Backend Builder
 
 > Seoul, Korea | Building tools at the intersection of AI and web development
+
+**Currently:** AX 전환 TF Lead @ 동아출판 — 사내 Claude Code 교육 + MS Teams 에이전트 챗봇 + AIDT LMS 배치 고도화
+
+---
+
+### Open for
+
+- 원격 백엔드 / AI 통합 부업 (주 10-20시간)
+- LLM · MCP · Claude Code 도입 컨설팅 & 사내 교육
+- Spring 모듈 성능 개선 · DB 락 트러블슈팅
+
+**Contact** — csk@gmail.com
+
+---
+
+### Track record
+
+- 외부 데이터 수집 모듈 처리 시간 **2~3h → 1h** (해시맵 재설계)
+- 전자결제 DB 락 야간 불안정 **장기 반복 → 해소**
+- Chrome Web Store 누적 다운로드 **10,000+**
+- 일 방문자 **800~1,000** 규모 서비스 직접 운영
+
+**Backend × AI Stack** — `Java` `Spring` `Spring Batch` `JPA` `MySQL` `Oracle` `MongoDB` `Redis` `Kafka` · `Claude Code` `MCP` `Codex` `Agent SDK` `RAG` `Rasa` `Ollama` `LightRAG`
 
 ---
 
@@ -9,6 +32,7 @@
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -24,6 +48,7 @@
 
 **Backend & Infra**
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
