@@ -74,6 +74,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [spring-claude-code-mcp-demo](https://github.com/cskwork/spring-claude-code-mcp-demo) | Inflearn course demo — Spring × Claude Code × MCP integration, 60-min hands-on | Java, Spring Boot, MCP |
 | [claude-minimal-plugin](https://github.com/cskwork/claude-minimal-plugin) | Lightweight Claude Code plugin for web development | Shell |
 | [notebook-lm-rag](https://github.com/cskwork/notebook-lm-rag) | NotebookLM RAG research report generator | Python, React |
 | [teaching-assistant](https://github.com/cskwork/teaching-assistant) | Korean education assistant with Excalidraw + Gemini TTS | HTML, JS |
