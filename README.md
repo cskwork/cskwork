@@ -2,27 +2,6 @@
 
 > Seoul, Korea | Building tools at the intersection of AI and web development
 
-**Currently:** 엔터프라이즈 LMS 시스템 고도화, AI 통합 TF Lead — 사내 Claude Code 교육 + MS Teams, 슬랙 에이전트 챗봇
-
----
-
-### Open for
-
-- 원격 백엔드 / AI 통합 부업 (주 10-20시간)
-- LLM · MCP · Claude Code 도입 컨설팅 & 사내 교육
-- Spring 모듈 성능 개선 · DB 락 트러블슈팅
-
-**Contact** — csk917work@gmail.com
-
----
-
-### Track record
-
-- 외부 데이터 수집 모듈 처리 시간 **2~3h → 1h** (해시맵 재설계)
-- 전자결제 DB 락 야간 불안정 **장기 반복 → 해소**
-- Chrome Web Store 누적 다운로드 **20,000+** [Link](https://chromewebstore.google.com/detail/webpage-to-markdown/ajeinonckioeekcfanjndliandidilid?authuser=0&hl=ko)
-- 일 방문자 **1,000~2,000** 블로그
-
 **Backend × AI Stack** — `Java` `Spring` `Spring Batch` `JPA` `MySQL` `Oracle` `MongoDB` `Redis` `Kafka` · `Claude Code` `MCP` `Codex` `Agent SDK` `RAG` `Rasa` `Ollama` `LightRAG`
 
 ---
