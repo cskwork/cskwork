@@ -1,4 +1,4 @@
-# Danny | Backend Developer × AI Builder
+# Developer | Backend Developer × AI Builder
 
 > Seoul, Korea | Building tools at the intersection of AI and web development
 
